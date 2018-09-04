@@ -65,4 +65,3 @@ else
     docker-compose -f docker-compose-multiple-networks.yml up -d
 fi
 
-exit 0
