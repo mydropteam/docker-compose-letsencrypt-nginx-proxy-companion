@@ -1,5 +1,6 @@
 data
 !*/default_location
+!data/vhost.d/default_location
 .env*
 !.env.sample
 .DS_Store
